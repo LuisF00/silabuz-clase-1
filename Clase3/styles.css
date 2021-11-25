@@ -1,0 +1,49 @@
+/* p {
+    color: red;
+    background-color: cornflowerblue;
+  text-align: center;
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+  padding: 15px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 12px;
+} */
+
+/* Selector de id */
+#parrafo1 {
+  background-color: rgb(38, 248, 10);
+}
+
+div {
+  background-color: cornflowerblue;
+  text-align: start;
+  width: 500px;
+  height: 500px;
+
+  /* margin: 20px; */
+  padding-left: 150px;
+  font-family: "Comforter Brush", cursive;
+  font-size: 16px;
+}
+
+/* selector de clase */
+.my-first-class {
+  font-size: 30px;
+}
+.color-brown {
+  color: brown;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* Selector de Etiqueta o tag */
+/* section {
+  background-color: white;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+} */
